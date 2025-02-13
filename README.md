@@ -48,8 +48,11 @@ https://github.com/Kjhyun-2/Unity-Game/assets/65886338/76893024-9659-40d6-bc57-a
 
 # 🛠 사용 기술 및 도구
 Unity (C# 스크립팅)
+
 애니메이션 컨트롤러 및 파티클 시스템 활용
+
 Unity Audio 시스템을 통한 BGM 및 효과음 적용
+
 NavMesh AI를 활용한 좀비 경로 탐색
 
 
